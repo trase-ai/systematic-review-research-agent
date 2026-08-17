@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "web-search": {
+      "command": "duckduckgo-mcp-server"
+    }
+  }
+}

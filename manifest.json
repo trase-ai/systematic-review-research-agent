@@ -1,0 +1,10 @@
+{
+  "kind": "anaconda-agent-studio/agent-bundle",
+  "schemaVersion": 1,
+  "exportedAt": "2026-08-10T18:55:51.000Z",
+  "studioVersion": "0.12.2",
+  "runtimeWheelVersion": "0.1.0",
+  "sourceSlug": "systematic-review-research-agent",
+  "agentName": "Systematic Review Research Agent",
+  "strippedPasswordFields": []
+}
