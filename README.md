@@ -23,16 +23,11 @@ A graduate-level social science agent that conducts systematic literature review
 
 | Setting | Value |
 |---------|-------|
-| Provider | Anaconda Desktop |
+| Provider | Anaconda Assistant |
 | Model | `gemma-4-E4B-it-Q4_K_M.gguf` |
 | Temperature | 0.7 |
 | Web Search | DuckDuckGo MCP |
 
-## Usage
-
-```bash
-pixi run serve
-```
 
 ## Files
 
