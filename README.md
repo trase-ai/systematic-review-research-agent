@@ -24,7 +24,7 @@ A graduate-level social science agent that conducts systematic literature review
 | Setting | Value |
 |---------|-------|
 | Provider | Anaconda Assistant |
-| Model | `gemma-4-E4B-it-Q4_K_M.gguf` |
+| Model | `us.anthropic.claude-sonnet-4-6` |
 | Temperature | 0.7 |
 | Web Search | DuckDuckGo MCP |
 
