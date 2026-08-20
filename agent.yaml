@@ -2,12 +2,15 @@ name: "Systematic Review Research Agent"
 description: "A graduate-level social science agent that conducts systematic literature reviews: collects, verifies, classifies, and synthesizes research sources into a tagged CSV output."
 
 ai:
-  provider_slug: anaconda-desktop
+  provider_slug: anaconda
   protocol: openai
-  api_base: 
-  model: gemma-4-E4B-it-Q4_K_M.gguf
-  temperature: 0.7
-  stream_usage: false
+  api_base: https://anaconda.com/api/assistant/v3/bedrock
+  model: us.anthropic.claude-sonnet-4-6
+  temperature: 0
+  stream_usage: true
+  default_headers:
+    X-Client-Source: "anaconda-labs-prod"
+    X-Client-Version: "0.0.1"
 
 documents:
   - documents/
